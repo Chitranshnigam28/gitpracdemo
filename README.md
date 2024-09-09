@@ -1,4 +1,4 @@
 # gitpracdemo
 This is my git practice repository
 
-Author-Chitransh Nigam
+Author-Chitransh Nigam(Langara)
